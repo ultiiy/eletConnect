@@ -1,0 +1,23 @@
+.pagination {
+    margin-top: 0; /* Remover margem superior */
+}
+
+.page-item {
+    margin: 0 2px; /* Ajustar a margem horizontal entre os itens */
+}
+
+.page-link {
+    padding: 0.3rem 0.6rem; /* Ajustar o preenchimento interno do link */
+}
+
+.custom-pagination {
+    background-color: transparent; /* ou background-color: none; */
+}
+.custom-table {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Adicione a sombra desejada aqui */
+}
+.scrollable-section {
+    max-height: auto; /* Defina a altura máxima conforme necessário */
+    overflow-y: auto; /* Isso permitirá a rolagem vertical quando o conteúdo exceder a altura máxima */
+  }
+  
